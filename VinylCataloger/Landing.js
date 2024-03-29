@@ -15,7 +15,7 @@ export default function App() {
     >
       <Box>
         <Typography variant="h4" color={"#FFFFFF"}>
-          VinylAI
+          SpinSight
         </Typography>
       </Box>
       <Box>
